@@ -19,7 +19,7 @@ To create a dark mode mode using variables and JS(my first time using JS.
 
 ### Author:
 - Github - [manueldinisjunior](https://github.com/manueldinisjunior)
-- Frontend Mentor - [@manueldinisjunior](https://www.frontendmentor.io/profile/manueldinisjunior)
+- Frontend Mentor - [manueldinisjunior](https://www.frontendmentor.io/profile/manueldinisjunior)
 
 ### Other Links
 
