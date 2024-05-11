@@ -11,7 +11,7 @@ This is part of the Frontend Mentor Challenge
 
 ### What I learned:
 
-To create a dark mode mode using variables and JS(my first time using JS.
+To create a dark mode mode using variables and JS(my first time using JS...
 
 ### Useful resources:
 
