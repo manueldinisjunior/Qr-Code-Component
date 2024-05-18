@@ -15,7 +15,7 @@ To create a dark mode mode using variables and JS(my first time using JS...
 
 ### Useful resources:
 
-- [Box Shadow Generator CSS](https://html-css-js.com/css/generator/box-shadow/) - Useful to generate box shadows CSS
+- [Box Shadow Generator CSS](https://html-css-js.com/css/generator/box-shadow/) - Useful to generate box shadows CSS.
 
 ### Author:
 - GitHub - [manueldinisjunior](https://github.com/manueldinisjunior)
